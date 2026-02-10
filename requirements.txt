@@ -1,0 +1,6 @@
+Flask
+Flask-Compress
+Flask-Limiter
+Flask-Cors
+curl_cffi
+google-genai
